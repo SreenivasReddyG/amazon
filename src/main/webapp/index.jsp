@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is DevOps class, now we are in Jenkins Class..!!</h2>
+<h2>Automation by integrating DevOps..!!!</h2>
 </body>
 </html>
